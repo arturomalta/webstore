@@ -1,0 +1,17 @@
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/service/impl/ProductServiceImpl.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/controller/OrderController.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/service/impl/OrderServiceImpl.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/model/Customer.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/service/ProductService.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/model/Product.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/controller/HomeController.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/dao/impl/InMemoryProductDAOImpl.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/dao/CustomerDAO.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/service/OrderService.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/controller/ProductController.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/dao/ProductDAO.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/service/impl/CustomerServiceImpl.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/dao/impl/HibernateCustomerDAOImpl.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/service/CustomerService.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/controller/CustomerController.java
+/Users/ummagumma-pro/Documents/workspace/spring/webstore/src/main/java/com/ummagumma/webstore/dao/impl/InMemoryCustomerDAOImpl.java
